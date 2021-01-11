@@ -1,0 +1,7 @@
+D:\Users\Quirino\Documents\GitHub Repositories\PPAUnreal_Quirino\PPA_UE4\Intermediate\Build\Win64\UE4Editor\Development\PPA_UE4\Definitions.PPA_UE4.h
+D:\Users\Quirino\Documents\GitHub Repositories\PPAUnreal_Quirino\PPA_UE4\Source\PPA_UE4\PPA_UE4GameModeBase.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Users\Quirino\Documents\GitHub Repositories\PPAUnreal_Quirino\PPA_UE4\Intermediate\Build\Win64\UE4Editor\Inc\PPA_UE4\PPA_UE4GameModeBase.generated.h
