@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\Users\\Quirino\\Documents\\GitHub Repositories\\PPAUnreal_Quirino\\PPA_UE4\\Source\\PPA_UE4\\PPA_UE4.Build.cs",
-		"D:\\Users\\Quirino\\Documents\\GitHub Repositories\\PPAUnreal_Quirino\\PPA_UE4\\Source\\PPA_UE4.Target.cs",
-		"D:\\Users\\Quirino\\Documents\\GitHub Repositories\\PPAUnreal_Quirino\\PPA_UE4\\Source\\PPA_UE4Editor.Target.cs"
+		"D:\\Users\\angel\\Documents\\GitHubs\\PPAUnreal_Quirino\\PPA_UE4\\Source\\PPA_UE4\\PPA_UE4.Build.cs",
+		"D:\\Users\\angel\\Documents\\GitHubs\\PPAUnreal_Quirino\\PPA_UE4\\Source\\PPA_UE4.Target.cs",
+		"D:\\Users\\angel\\Documents\\GitHubs\\PPAUnreal_Quirino\\PPA_UE4\\Source\\PPA_UE4Editor.Target.cs"
 	],
 	"EngineVersion": "4.26.0"
 }

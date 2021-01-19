@@ -6,11 +6,11 @@
 /NAME:"UE4Editor-PPA_UE4.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\Users\Quirino\Documents\GitHub Repositories\PPAUnreal_Quirino\PPA_UE4\Intermediate\Build\Win64\PPA_UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"D:\Users\Quirino\Documents\GitHub Repositories\PPAUnreal_Quirino\PPA_UE4\Intermediate\Build\Win64\UE4Editor\Development\PPA_UE4\PPA_UE4.cpp.obj"
-"D:\Users\Quirino\Documents\GitHub Repositories\PPAUnreal_Quirino\PPA_UE4\Intermediate\Build\Win64\UE4Editor\Development\PPA_UE4\PPA_UE4GameModeBase.cpp.obj"
-"D:\Users\Quirino\Documents\GitHub Repositories\PPAUnreal_Quirino\PPA_UE4\Intermediate\Build\Win64\UE4Editor\Development\PPA_UE4\PPA_UE4.init.gen.cpp.obj"
-"D:\Users\Quirino\Documents\GitHub Repositories\PPAUnreal_Quirino\PPA_UE4\Intermediate\Build\Win64\UE4Editor\Development\PPA_UE4\PPA_UE4GameModeBase.gen.cpp.obj"
-"D:\Users\Quirino\Documents\GitHub Repositories\PPAUnreal_Quirino\PPA_UE4\Intermediate\Build\Win64\UE4Editor\Development\PPA_UE4\Default.rc2.res"
-/OUT:"D:\Users\Quirino\Documents\GitHub Repositories\PPAUnreal_Quirino\PPA_UE4\Intermediate\Build\Win64\UE4Editor\Development\PPA_UE4\UE4Editor-PPA_UE4.lib"
+"D:\Users\angel\Documents\GitHubs\PPAUnreal_Quirino\PPA_UE4\Intermediate\Build\Win64\PPA_UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Users\angel\Documents\GitHubs\PPAUnreal_Quirino\PPA_UE4\Intermediate\Build\Win64\UE4Editor\Development\PPA_UE4\PPA_UE4.cpp.obj"
+"D:\Users\angel\Documents\GitHubs\PPAUnreal_Quirino\PPA_UE4\Intermediate\Build\Win64\UE4Editor\Development\PPA_UE4\PPA_UE4GameModeBase.cpp.obj"
+"D:\Users\angel\Documents\GitHubs\PPAUnreal_Quirino\PPA_UE4\Intermediate\Build\Win64\UE4Editor\Development\PPA_UE4\PPA_UE4.init.gen.cpp.obj"
+"D:\Users\angel\Documents\GitHubs\PPAUnreal_Quirino\PPA_UE4\Intermediate\Build\Win64\UE4Editor\Development\PPA_UE4\PPA_UE4GameModeBase.gen.cpp.obj"
+"D:\Users\angel\Documents\GitHubs\PPAUnreal_Quirino\PPA_UE4\Intermediate\Build\Win64\UE4Editor\Development\PPA_UE4\Default.rc2.res"
+/OUT:"D:\Users\angel\Documents\GitHubs\PPAUnreal_Quirino\PPA_UE4\Intermediate\Build\Win64\UE4Editor\Development\PPA_UE4\UE4Editor-PPA_UE4.lib"
 /INCLUDE:IMPLEMENT_MODULE_PPA_UE4
